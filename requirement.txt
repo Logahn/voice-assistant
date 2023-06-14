@@ -1,0 +1,14 @@
+pip3 install git+https://github.com/openai/whisper.git
+pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+sudo apt install ffmpeg
+pip install EdgeGPT --upgrade
+pip3 install pydub
+pip3 install boto3
+pip install SpeechRecognition
+pip install nest-asyncio
+pip install openai
+sudo apt-get install portaudio19-dev python3-dev
+pip install pyaudio
+pip install ipywebrtc
+pip install gtts
+pip install playsound
